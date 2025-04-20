@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AMALY Shopping</string>
+    <string name="app_logo">شعار AMALY</string>
+    <string name="cart">سلة التسوق</string>
+    <string name="search_hint">ابحث عن منتجات التجميل...</string>
+    <string name="search">بحث</string>
+    <string name="filter_by">تصفية حسب:</string>
+    <string name="price_range">نطاق السعر:</string>
+    <string name="under_50">أقل من 50</string>
+    <string name="a50_to_100">50 - 100</string>
+    <string name="over_100">أكثر من 100</string>
+    <string name="available_only">المنتجات المتاحة فقط</string>
+    <string name="discounted_only">المنتجات المخفضة فقط</string>
+    <string name="reset_filters">إعادة تعيين الفلاتر</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="empty_cart_message">سلة التسوق فارغة</string>
+    <string name="checkout">إتمام الشراء</string>
+    <string name="product_image">صورة المنتج</string>
+
+    <string-array name="product_categories">
+        <item>الكل</item>
+        <item>مكياج</item>
+        <item>بشرة</item>
+        <item>عناية بالشعر</item>
+        <item>عطور</item>
+    </string-array>
+</resources>
